@@ -1,4 +1,4 @@
-# BattleShip_Python
+# Battleship_Python
 ![battleship_splashscreen](https://github.com/user-attachments/assets/edac2694-ab7f-4955-95fd-54512d0db590)
 
 This is the classic board game Battleships running in the terminal. Programmed in Python. To play the game run Battleships.exe.  
